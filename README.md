@@ -1,4 +1,4 @@
-# Customer Churn Prediction Project (Fresher / AI Trainer Level)
+# Customer Churn Prediction Project 
 
 **Tech Stack**: Python | Pandas | NumPy | Matplotlib | Scikit-learn
 
